@@ -1,0 +1,125 @@
+.design2{
+display:none;
+}
+.development{
+  display:none;
+}
+.product{
+  display:none
+}
+.container{
+  text-align: center;
+}
+#name{
+  text-align: center;
+}
+#email{
+  text-align: center;
+}
+.col-md-3>img{
+height:200px;
+width:200px;
+}
+.col-md-3{
+  margin-bottom:50px;
+}
+
+#work4:hover{
+  background-color:white;
+  opacity:0.3;
+ 
+  color:red
+
+}
+#work4{
+  
+}
+
+
+#work3:hover{
+  background-color:white;
+  opacity:0.3;
+
+  color:red
+}
+  
+  #work2:hover{
+    background-color:white;
+    opacity:0.3;
+  
+    color:red
+  }
+   
+  #work2:hover{
+    background-color:white;
+    opacity:0.3;
+   
+    color:red
+  }
+  #work5:hover{
+    background-color:white;
+    opacity:0.3;
+  
+    color:red
+  }
+  #work6:hover{
+    background-color:white;
+    opacity:0.3;
+  
+    color:red
+  }
+  #work7:hover{
+    background-color:white;
+    opacity:0.3;
+   
+    color:red
+  }
+  #work8:hover{
+    background-color:white;
+    opacity:0.3;
+ 
+    color:red
+  }
+  #message{
+    height:200px;
+    width:700px;
+  }
+  .contacts{
+    background-size:cover;
+    text-align: center;
+    width:1200px;
+    padding:20px;
+    margin-top:30px;
+    color:white;
+  }
+  input::placeholder{
+    color:white;
+  }
+  textarea::placeholder{
+    color:white;
+  }
+  input{
+    margin-bottom: 30px;
+    margin-right: 20px;
+  }
+
+  #row{
+    margin-right: 20px;
+  }
+  .socialmedia{
+    margin:50px,50px,50px,50px;
+    padding:50px
+
+
+  }
+  .welcome{
+  color:white;
+  padding:10%;
+
+  }
+  .services{
+    color:white;
+  }
+  .container{
+    font-family: 'Roboto', sans-serif;
+  }
